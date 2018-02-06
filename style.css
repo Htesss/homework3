@@ -5,7 +5,7 @@ body {
 header,footer {
     background-color: yellow;
     color: white;
-    float: left;  
+    overflow: left;  
     width: 33%;
 }
 
