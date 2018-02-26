@@ -2,10 +2,17 @@ body {
     margin: 0;
 }
 
-header,footer {
+header {
     background-color: yellow;
     color: black;
     overflow: left;  
+    width: 33%;
+}
+
+Footer {
+    Background-colo: white;
+    color: black;
+    overflow: left;
     width: 33%;
 }
 
