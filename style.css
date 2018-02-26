@@ -3,9 +3,9 @@ body {
 }
 
 header,footer {
-    background-color: yellow;
-    color: white;
-    overflow: left;  
+    background-color: blue;
+    color: black;
+    float: left;  
     width: 33%;
 }
 
