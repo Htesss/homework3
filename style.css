@@ -5,8 +5,13 @@ body {
 header,footer {
     background-color: blue;
     color: black;
-    float: left;  
+    overflow: left;  
     width: 33%;
+}
+
+section.col {
+    width: 33%;
+    float: left;
 }
 
 div#content {
